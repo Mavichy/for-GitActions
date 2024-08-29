@@ -1,2 +1,2 @@
 # for-GitActions
-laba #6 DevTools
+lab #6 DevTools
